@@ -17,3 +17,6 @@ Extensions:
 4) Game over screen
 5) Ability to reset the game
 6) Wing flap animation
+
+
+<img width="801" alt="Flappy Bird" src="https://user-images.githubusercontent.com/87779346/155413589-96bf2f58-b56d-48e7-935f-fd6ebcd03733.png">
